@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **on some innovative ideas**
+- 👯 I’m looking to collaborate on **some innovative ideas**
 
 - 📫 How to reach me **vishwashah180701@gmail.com**
 
