@@ -8,3 +8,4 @@
 
 - 📫 How to reach me **vishwashah180701@gmail.com**
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&show_icons=true&locale=en" alt="vishwa-187" /></p>
