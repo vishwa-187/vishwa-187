@@ -11,4 +11,5 @@
 
 - Linkedin profile: **https://www.linkedin.com/in/vishwa-shah-94a9001a8/**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&show_icons=true&locale=en" alt="vishwa-187" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=dark&show_icons=true&locale=en" alt="vishwa-187" /></p>
