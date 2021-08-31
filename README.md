@@ -22,3 +22,10 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=midnight-purple&show_icons=true&locale=en" alt="vishwa-187" /></p>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwa-187&theme=dark" alt="vishwa-187" /></a> </p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=dark&layout=compact" alt="vishwa-187" /></p>
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" alt="vishwa-187" /></p>
