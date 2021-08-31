@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=dark&layout=compact" alt="vishwa-187" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" alt="vishwa-187" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187" alt="vishwa-187" /></p>
