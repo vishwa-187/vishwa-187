@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey there 👋, I'm Vishwa Shah👩🏽‍💻.</h1>
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **Full Stack Web Development.**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis and Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **some innovative ideas**
+- 👯 I’m looking to collaborate on **Web Development and Data Science Projects.**
 
-- 👩🏽‍💻 All of my projects are available at https://github.com/vishwa-187
+- 👩🏽‍💻 All of my projects are available at **https://github.com/vishwa-187**.
 
 - 📫 How to reach me **vishwashah180701@gmail.com**
 
