@@ -21,10 +21,19 @@
 </p> -->
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=dark&show_icons=true&locale=en" alt="vishwa-187" /></p>
+
+<p align="center">
+    <a href="https://github.com/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishwa Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;">
+    </a>
+</p>
+
+<hr>
+<h2> My Github Stats 📊</h2>
+<p align = ""center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=vision-friendly-dark&show_icons=true&locale=en" style="max-width: 100%;" alt="vishwa-187" /></p>
 <br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=dark&layout=compact" alt="vishwa-187" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" alt="vishwa-187" /></p>
   
