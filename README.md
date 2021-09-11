@@ -3,6 +3,8 @@
 <p align = "center">
 <img align ="center" height= "300" width = "300" src= "https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 </p>
+<br>
+
 - 🔭 I’m currently working on **Full Stack Web Development.**
 
 - 🌱 I’m currently learning **Data Analysis and Data Structures and Algorithms.**
