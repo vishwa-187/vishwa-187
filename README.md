@@ -34,7 +34,7 @@
 
 <hr>
 <h2> My Github Stats 📊</h2>
-<p align = ""center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=vision-friendly-dark&show_icons=true&locale=en" style="max-width: 100%;" alt="vishwa-187" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=vision-friendly-dark&show_icons=true&locale=en" style="max-width: 100%;" alt="vishwa-187" /></p>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=dark&layout=compact" alt="vishwa-187" /></p>
