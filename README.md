@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there 👋, I'm Vishwa Shah👩🏽‍💻.</h1>
 <p align = "center">
-<img align ="center" height= "300" width = "300" src= "https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align ="center" height= "250" width = "250" src= "https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 </p>
 <br>
 
@@ -26,18 +26,25 @@
 
 <br>
 
-<p align="center">
-    <a href="https://github.com/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishwa Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;">
-    </a>
-</p>
 
-<hr>
+
+
+
 <h2> Github Activity 📊</h2>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=vision-friendly-dark&show_icons=true&locale=en" style="max-width: 100%;" alt="vishwa-187" /></p>
-<br>
+<table>
+  <tbody><tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=radical&show_icons=true&locale=en" style="max-width: 100%;" alt="vishwa-187" /></td>
+    <td><img align="center" width=100% margin-top=10px src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=radical&layout=compact" alt="vishwa-187" /></td>
+   </tr> 
+   <tr>
+      <td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishwa Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;"></td>
+     <td><img src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishwa-187)](https://github.com/anuraghazra/github-readme-stats)
+" />
+  </td>
+  </tr>
+</tbody></table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=dark&layout=compact" alt="vishwa-187" /></p>
-<br>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa-187&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa-187" /> </p>
   
