@@ -34,7 +34,7 @@
     <td><img align="center" width=100% margin-top=10px src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwa-187&show_icons=true&locale=en&theme=radical&layout=compact" alt="vishwa-187" /></td>
    </tr> 
    <tr>
-      <td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishwa Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&amp;theme=black-ice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;"></td>
+      <td><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishwa Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&theme=dark" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-187&amp;theme=blackice&amp;hide_border=true&amp;stroke=0000&amp;background=060A0CD0" style="max-width: 100%;"></td>
      <td><img src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vishwa-187)](https://github.com/anuraghazra/github-readme-stats)
 " />
   </td>
