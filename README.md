@@ -7,7 +7,7 @@
 
 <div float =left>
   
-- 🔭 I’m currently working on **Full Stack Web Development..**
+- 🔭 I’m currently working on **Full Stack Web Development.**
 
 - 🌱 I’m currently learning **Data Analysis and Data Structures and Algorithms.**
 
