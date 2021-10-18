@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vishwashah180701@gmail.com**
 
-- 🎫Linkedin profile: **https://www.linkedin.com/in/vishwa-shah-94a9001a8/**
+- 🎫Linkedin profile: **https://www.linkedin.com/in/vishwa-shah-94a9001a8/**.
   </div>
 
 <!--
