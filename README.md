@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there 👋, I'm Vishwa Shah👩🏽‍💻.</h1>
 <p align = "center">
-<img align ="center" height= "250" width = "250" style="float:left;" src= "https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align ="center" height= "250" width = "250" style="float:left; border-radius: 20px;" src= "https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 </p>
 
 
