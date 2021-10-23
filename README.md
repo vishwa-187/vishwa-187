@@ -5,7 +5,7 @@
 </p>
 
 
-<div float =left>
+<div>
   
 - 🔭 I’m currently working on **Full Stack Web Development** projects.
 
