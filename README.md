@@ -27,7 +27,7 @@
  <a href="https://www.codechef.com/users/vishwa_shah18" rel="nofollow"><img src="https://github.com/vishwa-187/vishwa-187/blob/main/codechef.png" style="max-width:100%;"></a> 
 </p> -->
 
-<h2> Github Activity 📊</h2>
+<h2> Github Activity  📊</h2>
 <table>
   <tbody><tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-187&theme=radical&show_icons=true&locale=en" style="max-width: 100%;" alt="vishwa-187" /></td>
